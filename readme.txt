@@ -18,3 +18,6 @@
 	$ git clone git@github.com:godYYd/robot.git
 5.分支管理教程
 	https://www.liaoxuefeng.com/wiki/896043488029600/896954848507552
+
+
+完成上述步骤并完成教程学习后，在README.md中添加一条能证明自己的信息，如xxx’change（注意不要修改其他文件），如出现冲突，要求按教程合并解决冲突后上传，而不是覆盖。
